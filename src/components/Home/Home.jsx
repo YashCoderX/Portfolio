@@ -10,7 +10,7 @@ class Home extends React.Component {
             <div className='home-container'>
                 <div className='header-text'>
                     <h1>Welcome to my portfolio!</h1>
-                    <p>This is Yash Agarwal, a full stack developer</p>
+                    <p>This is Yash Agarwal, a Java full stack developer</p>
                 </div>
                 <div className='head-btns'>
                     <Link className='btn btn-white' to='/about'>

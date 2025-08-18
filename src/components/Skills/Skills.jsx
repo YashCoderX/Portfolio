@@ -1,4 +1,3 @@
-import React from 'react';
 import './Skills.css';
 import skillsVector from './../../assets/skills_vector.png';
 import Header from '../Header/Header';
